@@ -2,6 +2,7 @@
 
 require "emoji_test_file"
 require "annotation_file"
+require "emoji"
 
 class Compiler
   attr_reader :emojis
@@ -19,9 +20,22 @@ class Compiler
   end
 
   def merge_emoji(emoji)
-    if (current = emojis[emoji.characters])
-      current.merge!(emoji)
+    if (!emojis[emoji.characters])
+      current = Emoji.new(
+        characters: emoji.characters,
+        version: "99",
+        name: "",
+        category: "extended",
+        subcategory: "undefined",
+        qualification: "fully-qualified",
+        keywords: {},
+        tts_descriptions: {},
+      )
+      emojis[current.characters] = current
     end
+
+    current = emojis[emoji.characters]
+    current.merge!(emoji)
   end
 
   def add_test_file(filename)
