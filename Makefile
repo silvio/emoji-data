@@ -6,7 +6,10 @@ INPUT_FILES := $(wildcard cldr/common/annotations/*.xml) \
 	$(wildcard cldr/common/annotationsDerived/*.xml) \
 	cldr/tools/cldr-code/src/main/resources/org/unicode/cldr/util/data/emoji/emoji-test.txt
 
-all: cldr $(DATA_FILES)
+all: cldr $(DATA_FILES) add-own-emojis-w-versionnumber
+
+add-own-emojis-w-versionnumber: $(DATA_FILES)
+	@cat ./own-emojis.txt >> ./data/all_emojis_w_versionnumber.txt
 
 clean:
 	rm -f $(DATA_FILES)
