@@ -11,6 +11,9 @@ all: cldr $(DATA_FILES) add-own-emojis-w-versionnumber
 add-own-emojis-w-versionnumber: $(DATA_FILES)
 	@cat ./own-emojis.txt >> ./data/all_emojis_w_versionnumber.txt
 
+install-own-emojis: add-own-emojis-w-versionnumber
+	sudo cp data/all_emojis_w_versionnumber.txt /usr/share/rofi-emoji/all_emojis.txt
+
 clean:
 	rm -f $(DATA_FILES)
 
