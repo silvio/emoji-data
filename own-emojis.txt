@@ -1,3 +1,21 @@
 ¯\(°_o)/¯	Smileys & Emotion	i-dunno-lol	I don't know lol	E0.0 | dunno | lol | Keine Ahnnung lol
 ¯\_(ツ)_/¯	Smileys & Emotion	i-dunno	I don't know	E0.0 | dunno | Keine Ahnung
-
+⅟	Numbers & Fractions	ifraction-numerator-one	Vulgar Fraction Numerator One	E1.1 | fraction | numerator | one | one | Zähler | eins
+½	Numbers & Fractions	one-half	Vulgar Fraction One Half	E1.1 | fraction | half | one | one-half | one half | ein halb | halb
+⅓	Numbers & Fractions	one-third	Vulgar Fraction One Third	E1.1 | fraction | one | one-third | one third | third | ein Drittel | Drittel
+¼	Numbers & Fractions	one-quarter	Vulgar Fraction One Quarter	E1.1 | fraction | quarter | one | one-quarter | one quarter | quarter | ein Viertel | Viertel
+⅕	Numbers & Fractions	one-fifth	Vulgar Fraction One Fifth	E1.1 | fraction | one | one-fifth | one fifth | fifth | ein Fünftel | Fünftel
+⅙	Numbers & Fractions	one-sixth	Vulgar Fraction One Sixth	E1.1 | fraction | one | one-sixth | one sixth | sixth | ein Sechstel | Sechstel
+⅐	Numbers & Fractions	one-seventh	Vulgar Fraction One Seventh	E5.2 | fraction | one | one-seventh | one seventh | seventh | ein Siebtel | Siebtel
+⅛	Numbers & Fractions	one-eighth	Vulgar Fraction One Eighth	E1.1 | fraction | one | one-eighth | one eighth | eighth | ein Achtel | Achtel
+⅑	Numbers & Fractions	one-ninth	Vulgar Fraction One Ninth	E5.2 | fraction | one | one-ninth | one ninth | ninth | ein Neuntel | Neuntel
+⅒	Numbers & Fractions	one-tenth	Vulgar Fraction One Tenth	E5.2 | fraction | one | one-tenth | one tenth | tenth | ein Zehntel | Zehntel
+⅔	Numbers & Fractions	two-thirds	Vulgar Fraction Two Thirds	E1.1 | fraction | two | two-thirds | two thirds | thirds | zwei Drittel
+⅖	Numbers & Fractions	two-fifths	Vulgar Fraction Two Fifths	E1.1 | fraction | two | two-fifths | two fifths | fifths | zwei Fünftel
+¾	Numbers & Fractions	three-quarters	Vulgar Fraction Three Quarters	E1.1 | fraction | three | three-quarters | three quarters | quarters | drei Viertel
+⅗	Numbers & Fractions	three-fifths	Vulgar Fraction Three Fifths	E1.1 | fraction | three | three-fifths | three fifths | fifths | drei Fünftel
+⅜	Numbers & Fractions	three-eighths	Vulgar Fraction Three Eighths	E1.1 | fraction | three | three-eighths | three eighths | eighths | drei Achtel
+⅘	Numbers & Fractions	four-fifths	Vulgar Fraction Four Fifths	E1.1 | fraction | four | four-fifths | four fifths | fifths | vier Fünftel
+⅚	Numbers & Fractions	five-sixths	Vulgar Fraction Five Sixths	E1.1 | fraction | five | five-sixths | five sixths | sixths | fünf Sechstel
+⅝	Numbers & Fractions	five-eighths	Vulgar Fraction Five Eighths	E1.1 | fraction | five | five-eighths | five eighths | eighths | fünf Achtel
+⅞	Numbers & Fractions	seven-eighths	Vulgar Fraction Seven Eighths	E1.1 | fraction | seven | seven-eighths | seven eighths | eighths | sieben Achtel
