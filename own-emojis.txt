@@ -1,5 +1,3 @@
-¯\(°_o)/¯	Smileys & Emotion	i-dunno-lol	I don't know lol	E0.0 | dunno | lol | Keine Ahnnung lol
-¯\_(ツ)_/¯	Smileys & Emotion	i-dunno	I don't know	E0.0 | dunno | Keine Ahnung
 ⅟	Numbers & Fractions	ifraction-numerator-one	Vulgar Fraction Numerator One	E1.1 | fraction | numerator | one | one | Zähler | eins
 ½	Numbers & Fractions	one-half	Vulgar Fraction One Half	E1.1 | fraction | half | one | one-half | one half | ein halb | halb
 ⅓	Numbers & Fractions	one-third	Vulgar Fraction One Third	E1.1 | fraction | one | one-third | one third | third | ein Drittel | Drittel
@@ -19,3 +17,5 @@
 ⅚	Numbers & Fractions	five-sixths	Vulgar Fraction Five Sixths	E1.1 | fraction | five | five-sixths | five sixths | sixths | fünf Sechstel
 ⅝	Numbers & Fractions	five-eighths	Vulgar Fraction Five Eighths	E1.1 | fraction | five | five-eighths | five eighths | eighths | fünf Achtel
 ⅞	Numbers & Fractions	seven-eighths	Vulgar Fraction Seven Eighths	E1.1 | fraction | seven | seven-eighths | seven eighths | eighths | sieben Achtel
+¯\(°_o)/¯	Smileys & Emotion	i-dunno-lol	I don't know lol	E0.0 | dunno | lol | Keine Ahnnung lol
+¯\_(ツ)_/¯	Smileys & Emotion	i-dunno	I don't know	E0.0 | dunno | Keine Ahnung
